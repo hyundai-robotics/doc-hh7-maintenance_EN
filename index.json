@@ -1,0 +1,452 @@
+﻿[
+	{
+		"link": "README.md",
+		"char_ofs": 0,
+		"byte_ofs": 0
+	},
+	{
+		"link": "1-safety/README.md",
+		"char_ofs": 477,
+		"byte_ofs": 482
+	},
+	{
+		"link": "1-safety/1-introduction.md",
+		"char_ofs": 489,
+		"byte_ofs": 497
+	},
+	{
+		"link": "1-safety/2-relevent-safety-regulations.md",
+		"char_ofs": 3147,
+		"byte_ofs": 3182
+	},
+	{
+		"link": "1-safety/3-safety-training.md",
+		"char_ofs": 3334,
+		"byte_ofs": 3372
+	},
+	{
+		"link": "1-safety/4-safety-related-nameplate/README.md",
+		"char_ofs": 3807,
+		"byte_ofs": 3848
+	},
+	{
+		"link": "1-safety/4-safety-related-nameplate/1-safety-marking.md",
+		"char_ofs": 3840,
+		"byte_ofs": 3884
+	},
+	{
+		"link": "1-safety/4-safety-related-nameplate/2-safety-nameplate.md",
+		"char_ofs": 5871,
+		"byte_ofs": 5942
+	},
+	{
+		"link": "1-safety/5-definition-of-safety-functions.md",
+		"char_ofs": 7145,
+		"byte_ofs": 7227
+	},
+	{
+		"link": "1-safety/6-installation/README.md",
+		"char_ofs": 9219,
+		"byte_ofs": 9366
+	},
+	{
+		"link": "1-safety/6-installation/1-safety_fence.md",
+		"char_ofs": 9238,
+		"byte_ofs": 9388
+	},
+	{
+		"link": "1-safety/6-installation/2-placement_of_robot_peripheral_equipment.md",
+		"char_ofs": 12036,
+		"byte_ofs": 12257
+	},
+	{
+		"link": "1-safety/6-installation/3-installing_the_robot_copy.md",
+		"char_ofs": 15741,
+		"byte_ofs": 16087
+	},
+	{
+		"link": "1-safety/6-installation/4-space_for_robot_installation.md",
+		"char_ofs": 20477,
+		"byte_ofs": 20874
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/README.md",
+		"char_ofs": 21142,
+		"byte_ofs": 21546
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/1-safety_precautions_for_robot_handling.md",
+		"char_ofs": 21511,
+		"byte_ofs": 21918
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/2-safety_precautions_for_operationg_test.md",
+		"char_ofs": 29846,
+		"byte_ofs": 30290
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/3-safety_precautions_for_automatic_operation.md",
+		"char_ofs": 31755,
+		"byte_ofs": 32214
+	},
+	{
+		"link": "1-safety/8-safety_precautions_for_robot_handling.md",
+		"char_ofs": 34644,
+		"byte_ofs": 35152
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/README.md",
+		"char_ofs": 37315,
+		"byte_ofs": 37836
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/1-safety_precautions_for_controller_maintenance_and_repair.md",
+		"char_ofs": 37368,
+		"byte_ofs": 37892
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/2-safety_precautions_for_robot_system_manipulator_maintenance.md",
+		"char_ofs": 39199,
+		"byte_ofs": 39734
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/3-necessary_actions_after_maintenance_and_repair.md",
+		"char_ofs": 40408,
+		"byte_ofs": 40958
+	},
+	{
+		"link": "1-safety/10-safety_functions/README.md",
+		"char_ofs": 41634,
+		"byte_ofs": 42195
+	},
+	{
+		"link": "1-safety/10-safety_functions/1-operating_a_safety_circuit.md",
+		"char_ofs": 41659,
+		"byte_ofs": 42223
+	},
+	{
+		"link": "1-safety/10-safety_functions/2-emergency_stop.md",
+		"char_ofs": 44739,
+		"byte_ofs": 45342
+	},
+	{
+		"link": "1-safety/10-safety_functions/3-operating_speed.md",
+		"char_ofs": 46404,
+		"byte_ofs": 47084
+	},
+	{
+		"link": "1-safety/10-safety_functions/4-connecting_the_safety_devices.md",
+		"char_ofs": 46558,
+		"byte_ofs": 47241
+	},
+	{
+		"link": "1-safety/10-safety_functions/5-restricting_the_safety_devices.md",
+		"char_ofs": 46931,
+		"byte_ofs": 47617
+	},
+	{
+		"link": "1-safety/10-safety_functions/6-monitoring_function.md",
+		"char_ofs": 48390,
+		"byte_ofs": 49081
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/README.md",
+		"char_ofs": 48752,
+		"byte_ofs": 49446
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/1-gripper.md",
+		"char_ofs": 48793,
+		"byte_ofs": 49490
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/2-tool_workpiece.md",
+		"char_ofs": 49702,
+		"byte_ofs": 50402
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/3-pneumatic_and_hydraulic_systems.md",
+		"char_ofs": 50207,
+		"byte_ofs": 50910
+	},
+	{
+		"link": "1-safety/12-liablilities.md",
+		"char_ofs": 50721,
+		"byte_ofs": 51427
+	},
+	{
+		"link": "2-specifications/README.md",
+		"char_ofs": 53820,
+		"byte_ofs": 54529
+	},
+	{
+		"link": "2-specifications/1-Robot_Machinery_Part.md",
+		"char_ofs": 53840,
+		"byte_ofs": 54552
+	},
+	{
+		"link": "2-specifications/2-Location_of_Robot_Identificatyion_Plate.md",
+		"char_ofs": 53938,
+		"byte_ofs": 54671
+	},
+	{
+		"link": "2-specifications/3-Basic_Specifications.md",
+		"char_ofs": 54294,
+		"byte_ofs": 55052
+	},
+	{
+		"link": "2-specifications/4-Robot_Dimensions_and_Working_Envelope.md",
+		"char_ofs": 60461,
+		"byte_ofs": 61281
+	},
+	{
+		"link": "2-specifications/5-Axis_Identification.md",
+		"char_ofs": 60925,
+		"byte_ofs": 61870
+	},
+	{
+		"link": "2-specifications/6-Details_of_Wrist_Axis_attachment_Surface.md",
+		"char_ofs": 63098,
+		"byte_ofs": 64066
+	},
+	{
+		"link": "2-specifications/7-Detail_diagram_of_top_attachment_surface_of_1st_arm.md",
+		"char_ofs": 63457,
+		"byte_ofs": 64472
+	},
+	{
+		"link": "2-specifications/8-Wiring_and_Piping_Drawings_for_Application/README.md",
+		"char_ofs": 63703,
+		"byte_ofs": 64745
+	},
+	{
+		"link": "2-specifications/8-Wiring_and_Piping_Drawings_for_Application/1-Wiring_and_Piping_Drawings_for_Application.md",
+		"char_ofs": 63986,
+		"byte_ofs": 65193
+	},
+	{
+		"link": "2-specifications/9-Operating_range_limit/README.md",
+		"char_ofs": 65049,
+		"byte_ofs": 66288
+	},
+	{
+		"link": "2-specifications/9-Operating_range_limit/1-1axis_s_axis.md",
+		"char_ofs": 66021,
+		"byte_ofs": 67275
+	},
+	{
+		"link": "3-instructions/README.md",
+		"char_ofs": 66239,
+		"byte_ofs": 67497
+	},
+	{
+		"link": "3-instructions/1-Robot_Component_Name.md",
+		"char_ofs": 66260,
+		"byte_ofs": 67521
+	},
+	{
+		"link": "3-instructions/2-Location_of_Safety_Nameplate.md",
+		"char_ofs": 68626,
+		"byte_ofs": 69908
+	},
+	{
+		"link": "3-instructions/3-Transportation_method/README.md",
+		"char_ofs": 68926,
+		"byte_ofs": 70243
+	},
+	{
+		"link": "3-instructions/3-Transportation_method/1-using-a-crane.md",
+		"char_ofs": 68956,
+		"byte_ofs": 70276
+	},
+	{
+		"link": "3-instructions/3-Transportation_method/2-using-a-forklift.md",
+		"char_ofs": 69958,
+		"byte_ofs": 71374
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/README.md",
+		"char_ofs": 70784,
+		"byte_ofs": 72237
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/1-Operating_Conditions.md",
+		"char_ofs": 71412,
+		"byte_ofs": 72892
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/2-Installaton_the_Robot_Manipulator.md",
+		"char_ofs": 71879,
+		"byte_ofs": 73370
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/3-Dimension_of_Installation_Surface.md",
+		"char_ofs": 72593,
+		"byte_ofs": 74089
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/4-Emergency_Stop_time_Disance.md",
+		"char_ofs": 73113,
+		"byte_ofs": 74635
+	},
+	{
+		"link": "3-instructions/4-How_to_Install/5-Accuracy_of_Installation_Surface.md",
+		"char_ofs": 73601,
+		"byte_ofs": 75126
+	},
+	{
+		"link": "3-instructions/5-allowable-load-of-the-wrist-axis/README.md",
+		"char_ofs": 73895,
+		"byte_ofs": 75494
+	},
+	{
+		"link": "3-instructions/5-allowable-load-of-the-wrist-axis/1-calculation-of-the-allowable-load-torque.md",
+		"char_ofs": 73934,
+		"byte_ofs": 75536
+	},
+	{
+		"link": "3-instructions/5-allowable-load-of-the-wrist-axis/2-example-of-the-calculation-of-the-allowable-torque-and-moment-of-inertia.md",
+		"char_ofs": 79372,
+		"byte_ofs": 81054
+	},
+	{
+		"link": "4-inspection/README.md",
+		"char_ofs": 82963,
+		"byte_ofs": 84776
+	},
+	{
+		"link": "4-inspection/1-inspection-plan.md",
+		"char_ofs": 83114,
+		"byte_ofs": 84930
+	},
+	{
+		"link": "4-inspection/2-inspection-items-and-cycles.md",
+		"char_ofs": 84999,
+		"byte_ofs": 86818
+	},
+	{
+		"link": "4-inspection/3-inspection-of-main-external-bolts.md",
+		"char_ofs": 90292,
+		"byte_ofs": 92121
+	},
+	{
+		"link": "4-inspection/4-checking-wiring-in-the-manipulator/README.md",
+		"char_ofs": 92798,
+		"byte_ofs": 94670
+	},
+	{
+		"link": "4-inspection/4-checking-wiring-in-the-manipulator/1-condition-of-safety-inspection.md",
+		"char_ofs": 93199,
+		"byte_ofs": 95074
+	},
+	{
+		"link": "4-inspection/4-checking-wiring-in-the-manipulator/2-lnspection-part.md",
+		"char_ofs": 93692,
+		"byte_ofs": 95572
+	},
+	{
+		"link": "4-inspection/5-checking-the-timing-belt.md",
+		"char_ofs": 93794,
+		"byte_ofs": 95695
+	},
+	{
+		"link": "5-maintenance/README.md",
+		"char_ofs": 97575,
+		"byte_ofs": 99565
+	},
+	{
+		"link": "5-maintenance/1-battery-replacement/README.md",
+		"char_ofs": 97592,
+		"byte_ofs": 99585
+	},
+	{
+		"link": "5-maintenance/1-battery-replacement/1-instructions-for-battery-storage.md",
+		"char_ofs": 99501,
+		"byte_ofs": 101531
+	},
+	{
+		"link": "5-maintenance/2-internal-wiring/README.md",
+		"char_ofs": 99984,
+		"byte_ofs": 102020
+	},
+	{
+		"link": "5-maintenance/2-internal-wiring/1-connection-drawing-of-wire-extension.md",
+		"char_ofs": 101014,
+		"byte_ofs": 103061
+	},
+	{
+		"link": "6-troubleshooting/README.md",
+		"char_ofs": 101358,
+		"byte_ofs": 103448
+	},
+	{
+		"link": "6-troubleshooting/1-how-to-investigate-the-causes-of-issues.md",
+		"char_ofs": 101382,
+		"byte_ofs": 103475
+	},
+	{
+		"link": "6-troubleshooting/2-symptoms-and-causes-of-issues.md",
+		"char_ofs": 102645,
+		"byte_ofs": 104741
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/README.md",
+		"char_ofs": 106795,
+		"byte_ofs": 108894
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/1-fulcrum-bearing-at-each-point.md",
+		"char_ofs": 106854,
+		"byte_ofs": 108956
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/2-reducers.md",
+		"char_ofs": 107727,
+		"byte_ofs": 109838
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/3-brake.md",
+		"char_ofs": 109979,
+		"byte_ofs": 112135
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/4-motor.md",
+		"char_ofs": 110864,
+		"byte_ofs": 113023
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/5-encoder.md",
+		"char_ofs": 111339,
+		"byte_ofs": 113501
+	},
+	{
+		"link": "6-troubleshooting/4-setting-the-encoder-origin/README.md",
+		"char_ofs": 112146,
+		"byte_ofs": 114323
+	},
+	{
+		"link": "6-troubleshooting/4-setting-the-encoder-origin/1-setting-the-origin.md",
+		"char_ofs": 112870,
+		"byte_ofs": 115062
+	},
+	{
+		"link": "6-troubleshooting/4-setting-the-encoder-origin/2-encoder-reset.md",
+		"char_ofs": 113407,
+		"byte_ofs": 115610
+	},
+	{
+		"link": "6-troubleshooting/4-setting-the-encoder-origin/3-encoder-compensation-and-selection.md",
+		"char_ofs": 113797,
+		"byte_ofs": 116049
+	},
+	{
+		"link": "7-recommended-spare-parts/README.md",
+		"char_ofs": 114814,
+		"byte_ofs": 117113
+	},
+	{
+		"link": "8-diagram-for-the-connection-of-wirings-inside-the-manipulator/README.md",
+		"char_ofs": 130398,
+		"byte_ofs": 132700
+	}
+]

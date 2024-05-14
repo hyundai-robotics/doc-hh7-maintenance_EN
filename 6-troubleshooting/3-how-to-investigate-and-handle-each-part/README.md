@@ -1,0 +1,1 @@
+﻿# 6.3. Diagnostics and Resolutions for Major Parts Failure 
